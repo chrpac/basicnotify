@@ -1,7 +1,7 @@
 const request = require('request');
 const fs = require('fs')
 
-token = '8L5ACVF6JsdZPlQYgecJ3M7EhIwIrurFuo7XED1YqME';
+token = 'YOUR TOKEN LINE NOTIFY';
 message = 'HelloWorld';
 
 request({
